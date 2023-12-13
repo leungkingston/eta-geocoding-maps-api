@@ -9,4 +9,4 @@ In `server` directory:
 `npm install express`
 
 Then put your own API key in the following files when prompted:
-(`server/server.js`, `src/calculateEta.js`, `src/App.js`)
+(`server/server.js`, `src/calculateEta.js`)
